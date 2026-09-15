@@ -1,0 +1,1 @@
+export const profile={name:'김현장 컨설턴트',role:'외식업 경영 컨설턴트',career:'외식업 현장 15년 · 컨설팅 9년',bio:'숫자만 보는 진단보다 매장의 하루를 이해하는 일을 먼저 생각합니다. 현장에서 실제로 실행할 수 있는 작고 분명한 변화를 함께 찾습니다.',highlights:['외식 브랜드 운영 및 메뉴 개발','소상공인 매장 개선 프로젝트','외식업 실무 강의 120회+','외식업 운영 분야 저서 출간'],image:'https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=1000&q=80'};
