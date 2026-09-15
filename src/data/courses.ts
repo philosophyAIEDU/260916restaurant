@@ -1,0 +1,2 @@
+import type { Course } from '../types';
+export const course:Course={title:'숫자로 이해하는 음식점 운영의 기본',description:'감에 의존하던 운영에서 벗어나 매출과 비용 구조를 스스로 읽는 실무 강의입니다.',image:'https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=1400&q=80',duration:'총 6시간 · 18강',audience:'예비 창업자와 운영 1~5년 차 사장님',features:['현장 사례 중심','평생 수강','실무 양식 제공'],curriculum:['매출 구조 이해하기','메뉴별 원가 계산','손익분기점과 목표 매출','실행 가능한 월간 계획']};
